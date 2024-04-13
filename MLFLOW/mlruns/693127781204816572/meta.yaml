@@ -1,0 +1,6 @@
+artifact_location: file:///a:/TOOLS/MLFLOW/mlruns/693127781204816572
+creation_time: 1712988917005
+experiment_id: '693127781204816572'
+last_update_time: 1712988917005
+lifecycle_stage: active
+name: optimized_model

@@ -1,0 +1,15 @@
+artifact_uri: file:///a:/TOOLS/MLFLOW/mlruns/693127781204816572/568f2eca7acb4665af6321015a566133/artifacts
+end_time: 1712988919194
+entry_point_name: ''
+experiment_id: '693127781204816572'
+lifecycle_stage: active
+run_id: 568f2eca7acb4665af6321015a566133
+run_name: crawling-lynx-655
+run_uuid: 568f2eca7acb4665af6321015a566133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712988917014
+status: 3
+tags: []
+user_id: ayush
